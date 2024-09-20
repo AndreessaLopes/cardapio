@@ -36,4 +36,4 @@ Para rodar o aplicativo, você precisa apenas de um navegador moderno.
     start index.html
 
 ## 🎨 Estilização com Tailwind CSS
-- **O Tailwind CSS foi utilizado para uma estilização rápida e eficiente. Caso queira modificar o design, basta alterar ou adicionar novas classes utilitárias no HTML.
+- O Tailwind CSS foi utilizado para uma estilização rápida e eficiente. Caso queira modificar o design, basta alterar ou adicionar novas classes utilitárias no HTML.
